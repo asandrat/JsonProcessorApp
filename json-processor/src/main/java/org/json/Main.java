@@ -47,8 +47,6 @@ public class Main {
                 }
         );
 
-        ElementsHolder filteredElementHolder = new ElementsHolder(filteredElements);
-        filteredElementHolder.setElements(filteredElements);
-        return filteredElementHolder;
+        return new ElementsHolder(filteredElements);
     }
 }
