@@ -23,7 +23,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.jsonprocessor</groupId>
+            <groupId>org.json</groupId>
             <artifactId>annotation-processor</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
